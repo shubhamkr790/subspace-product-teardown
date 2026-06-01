@@ -53,5 +53,3 @@
 - Frameworks: SWOT, Porter's Five Forces, RICE prioritization
 
 ---
-
-*Built for PM Internship evaluation.*
